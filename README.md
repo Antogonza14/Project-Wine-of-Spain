@@ -14,19 +14,6 @@ Antoniogonzalezmeseguer_graficos_vinos.ipynb: Jupyter Notebook containing detail
 Exploracion_dataset_vino.ipynb: Jupyter Notebook dedicated to the initial exploration and cleaning of the wine dataset.
 wines_SPA.csv: The dataset used in this project, containing various attributes of wines, provided in Spanish.
 
-sh
-
-git clone https://github.com/Antogonza14/Project-Wine-of-Spain.git
-Navigate to the Repository Directory:
-sh
-
-cd Project-Wine-of-Spain
-Open the Jupyter Notebooks to Explore the Analysis:
-sh
-
-jupyter notebook Antoniogonzalezmeseguer_graficos_vinos.ipynb
-jupyter notebook Exploracion_dataset_vino.ipynb
-
 # Goals and Vision
 The primary goal of this project is to demonstrate the potential of data to make informed decisions about wine selection. Beyond that, it aims to show how data-driven approaches can be applied to various fields, inspiring everyone to envision and build a future where data plays a central role in shaping our world.
 
